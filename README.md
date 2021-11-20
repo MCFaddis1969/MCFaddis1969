@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MCFaddis1969
 - 👀 I’m interested in music theory, all-phase construction and coding
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on html, css, javascript, wordpress, music, construction
+- 💞️ I’m looking to collaborate on html, css, javascript, wordpress, music, construction, github
 - 📫 How to reach me mcf1969@gmail.com
 
 <!---
