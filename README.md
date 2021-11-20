@@ -2,7 +2,7 @@
 - 👀 I’m interested in music theory, all-phase construction and coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on html, css, javascript, wordpress, music, construction, github
-- 📫 How to reach me mcf1969@gmail.com
+- 📫 How to reach me mcf1969@gmail.com or twitter.com/MCFaddis1969
 
 <!---
 MCFaddis1969/MCFaddis1969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
